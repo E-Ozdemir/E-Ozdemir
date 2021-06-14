@@ -38,7 +38,7 @@
 
 ## 👨👩 Social
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muratsahin-)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-%C3%B6zdemir-6b1bba207/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
@@ -54,11 +54,11 @@
 
 ## 📈 Statistics
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=sahinmurat" alt="visitor counter" width="20%"/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=E-Ozdemir" alt="visitor counter" width="20%"/></p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sahinmurat&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahinmurat&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahinmurat&theme=chartreuse-dark&layout=compact" alt="languages" width="50%"></p>
+<img src="https://github-readme-stats.vercel.app/api?username=E-Ozdemir&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=E-Ozdemir&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-Ozdemir&theme=chartreuse-dark&layout=compact" alt="languages" width="50%"></p>
 
 
 

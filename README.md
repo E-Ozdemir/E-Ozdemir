@@ -44,13 +44,9 @@
 <!-- This repository helps you to easily review the projects in my profile. 
 [Click Here](https://E-Ozdemir.github.io/Index-Of-GitHub-Profile/) -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=E-Ozdemir&show_icons=true&theme=dracula" align='center' width="55%">
-
-<img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
-
-<br>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=E-Ozdemir" alt="E-Ozdemir" /> </p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=E-Ozdemir&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=E-Ozdemir&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozdemir-emre/)
 <!-- [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://#######.medium.com/)

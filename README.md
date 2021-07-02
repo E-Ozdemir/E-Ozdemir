@@ -39,7 +39,9 @@
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919847.svg" alt="gitHub" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="35"/> </a> 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a> 
-
+<br>
+<br>
+<br>
 
 <!-- This repository helps you to easily review the projects in my profile. 
 [Click Here](https://E-Ozdemir.github.io/Index-Of-GitHub-Profile/) -->
@@ -47,8 +49,9 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=E-Ozdemir&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=E-Ozdemir&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozdemir-emre/)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himmelkonig&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<p align="center">
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozdemir-emre/)</p>
 <!-- [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://#######.medium.com/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/#######) -->
 

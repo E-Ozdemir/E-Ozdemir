@@ -56,9 +56,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozdemir-emre/)
 
 
-- 📫 How to reach me with email: ozzdemir.emre@gmx.de
-
-- 🔭 I’m currently working on frontend and Web development (JavaScript & Typescript | React )
+- 🔭 I’m currently working on Web development (JavaScript & Typescript | React )
 
 
 <!-- ## Medium Articles

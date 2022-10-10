@@ -9,11 +9,16 @@
 
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/55084899/166443058-56438dc3-850b-4276-a5a4-fc62c78080f5.png" alt="html" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/55084899/166442920-ea2c5fb7-9c14-425d-afb3-dfc54e477245.png" alt="css" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/55084899/166443219-ba185b82-45be-4c67-b762-92634f814dbb.png" alt="sass" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" alt="Ts" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="60"/> </a>
+<a><img src="https://redux-toolkit.js.org/img/redux-logo-landscape.png" alt="redux-toolkit" height="60"/></a>
+<a><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Cm-0OUM---/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h8vshokrazrgrnurqed8.jpg" alt="next-js" height="60"/></a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://miro.medium.com/max/1400/1*Smbj_VLH7JRp9GhLaKyiUQ.png" alt="material-ui" height="55"/> </a>
 <a href="#" target="_blank"> <img src="https://react.semantic-ui.com/logo.png" alt="semantic-ui" height="60"/> </a>
+
 
 ## 💻 Backend
 
@@ -26,7 +31,6 @@
 
 ## ⚙ Tools
 
-<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/55084899/166443219-ba185b82-45be-4c67-b762-92634f814dbb.png" alt="sass" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="sublime-text" height="45"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a> 

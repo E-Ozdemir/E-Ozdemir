@@ -48,21 +48,18 @@
 <!-- This repository helps you to easily review the projects in my profile. 
 [Click Here](https://E-Ozdemir.github.io/Index-Of-GitHub-Profile/) -->
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=E-Ozdemir&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<p align="center">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=E-Ozdemir&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp; -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=E-Ozdemir&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himmelkonig&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<br>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozdemir-emre/)
-<!-- [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://#######.medium.com/)
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/#######) -->
+
 
 - 📫 How to reach me with email: ozzdemir.emre@gmx.de
 
-- 🔭 I’m currently working on frontend and mobile app development (JavaScript | React )
-- 🌱 I’m currently learning backend development (Django)
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about anything that you want to learn
+- 🔭 I’m currently working on frontend and Web development (JavaScript & Typescript | React )
+
 
 <!-- ## Medium Articles
 
